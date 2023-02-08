@@ -1,1 +1,1 @@
-Sheel Basics Project
+Shell Basics Project
